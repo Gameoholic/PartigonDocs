@@ -19,6 +19,6 @@
 ***
 
 * [Examples](examples/README.md)
+  * [Examples](examples/examples.md)
   * [Tutorial 1 (Basic)](examples/tutorial-1-basic.md)
   * [Tutorial 2 (Advanced)](examples/tutorial-2-advanced.md)
-* [Examples](examples-1.md)

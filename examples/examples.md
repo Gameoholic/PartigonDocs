@@ -1,5 +1,7 @@
 # Examples
 
+Example 1:
+
 ```kotlin
 val framesPerTick = 5
 val circlePoint1 = TrigonometricEnvelope(
