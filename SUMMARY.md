@@ -12,6 +12,7 @@
 ## Envelopes
 
 * [Envelope](envelopes/envelope.md)
+* [ConstantEnvelope](envelopes/constantenvelope.md)
 * [BasicEnvelope](envelopes/basicenvelope.md)
 * [LineEnvelope](envelopes/lineenvelope.md)
 * [CurveEnvelope](envelopes/curveenvelope.md)

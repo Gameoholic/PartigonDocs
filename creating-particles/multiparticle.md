@@ -12,3 +12,19 @@ To add particles to it, you can either pass a list containing `SingularParticle`
 
 An example of a MultiParticle:
 
+```
+multiParticle {
+    singularParticle {
+        originLocation = ConstantLocation(Location(Bukkit.getWorld("world"), 0.0, 170.0, 0.0))
+        particleType = Particle.PORTAL
+    }.add()
+    singularParticle {
+        originLocation = ConstantLocation(Location(Bukkit.getWorld("world"), 0.0, 170.0, 0.0))
+        particleType = Particle.FLAME
+    }.add()
+    singularParticle {
+        originLocation = ConstantLocation(Location(Bukkit.getWorld("world"), 0.0, 170.0, 0.0))
+        particleType = Particle.CRIT
+    }.add()
+}
+```
