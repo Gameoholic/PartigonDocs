@@ -1,7 +1,13 @@
 # Table of contents
 
 * [Partigon](README.md)
-* [PartigonParticle](partigonparticle.md)
+
+## Creating Particles
+
+* [PartigonParticle](creating-particles/partigonparticle.md)
+* [SingularParticle](creating-particles/singularparticle.md)
+* [MultiParticle](creating-particles/multiparticle.md)
+* [PartigonLocation](creating-particles/partigonlocation.md)
 
 ## Envelopes
 

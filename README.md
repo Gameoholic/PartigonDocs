@@ -1,7 +1,7 @@
 ---
 description: >-
-  Partigon is a library for Paper servers written in Kotlin, which make it
-  easier for you to create complex particle animations.
+  Partigon is a library which makes it easier to create complex particle
+  animations. It's written in Kotlin, for use in Paper plugins.
 ---
 
 # Partigon
