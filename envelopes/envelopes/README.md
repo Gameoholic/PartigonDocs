@@ -15,3 +15,27 @@ Most particle animations can be created using one of the already provided Envelo
 All Envelopes extend BasicEnvelope, but you can create your own implementation.
 
 All envelopes have a `completion` parameter, which indicates how much of the envelope to animate. For example, setting it to `1.0` will animate it in its entirety, `0.5` only half, `-1.0` will play it in reverse, etc.
+
+
+
+There are several ways to add Envelopes to particles, in order of preference:
+
+1\) Constructor-parameter envelopes
+
+```
+positionY = LinearEnvelope(0.0.envelope, 4.0.envelope, RepeatLoop(40))
+```
+
+2\) Property type defined in envelope, add with add() extension function
+
+```
+LinearEnvelope(Envelope.PropertyType.POS_Y, 0.0.envelope, 4.0.envelope, RepeatLoop(40)).add()
+```
+
+3\) Pass list of envelopes
+
+```
+envelopes = listOf(
+    LinearEnvelope(Envelope.PropertyType.POS_Y, 0.0.envelope, 4.0.envelope, RepeatLoop(40))
+)
+```
