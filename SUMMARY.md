@@ -11,12 +11,11 @@
 
 ## Envelopes
 
-* [Envelope](envelopes/envelope.md)
+* [Envelopes](envelopes/envelopes.md)
 * [ConstantEnvelope](envelopes/constantenvelope.md)
-* [BasicEnvelope](envelopes/basicenvelope.md)
 * [LineEnvelope](envelopes/lineenvelope.md)
 * [CurveEnvelope](envelopes/curveenvelope.md)
-* [Creating a custom Envelope](envelopes/creating-a-custom-envelope.md)
+* [BasicEnvelope](envelopes/basicenvelope.md)
 
 ## Loops
 

@@ -1,4 +1,4 @@
-# Envelope
+# Envelopes
 
 Envelopes are how you customize particle animations and animate properties.\
 An Envelope is essentially an interpolation of a value over time.\
@@ -13,3 +13,5 @@ Envelopes can be nested inside of each other, resulting in unique effects that a
 Most particle animations can be created using one of the already provided Envelope implementations, or using Envelope Wrappers.
 
 All Envelopes extend BasicEnvelope, but you can create your own implementation.
+
+All envelopes have a `completion` parameter, which indicates how much of the envelope to animate. For example, setting it to `1.0` will animate it in its entirety, `0.5` only half, `-1.0` will play it in reverse, etc.
