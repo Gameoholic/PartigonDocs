@@ -22,6 +22,10 @@ When loop reaches end, will reverse in the same way as `ReverseLoop`, but will n
 
 Nothing changes when loop ends, the animation continues.
 
+### Loop Comparison
+
+{% embed url="https://youtu.be/TfoMoPgXfqI" %}
+
 ## Custom Loops
 
 To implement your own Loop, extend the Loop interface, and override the `duration` and `envelopeDuration` fields, and the `applyLoop` method.

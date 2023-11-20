@@ -22,6 +22,8 @@ All classes and methods have Javadoc that provide more details and information.
 
 Github: [https://github.com/Gameoholic/Partigon](https://github.com/Gameoholic/Partigon)
 
+Hangar: -
+
 ### Join the community
 
 Join my [Discord server](https://discord.gameoholic.xyz/)
