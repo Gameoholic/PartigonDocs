@@ -25,7 +25,7 @@ repositories {
     }
 }
 dependencies {
-    compileOnly("xyz.gameoholic:partigon:1.1.1")
+    compileOnly("xyz.gameoholic:partigon:version")
 }
 ```
 
