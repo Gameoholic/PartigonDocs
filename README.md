@@ -26,9 +26,9 @@ All classes and methods have Javadoc that provide more details and information.
 
 ### Join the community
 
-Join my [Discord server](https://discord.gameoholic.xyz/)
+Join my [Discord server](https://discord.gameoholic.xyz/) for support and discussion of this project.
 
 ### Contributing
 
 Contributions and PR's are welcome!\
-The project is still at a very early stage, so if you have any feedback I'd love to hear it. (join my Discord server)
+The project is still at a very early stage, so if you have any feedback I'd love to hear it. (You can do so in the Discord server)
