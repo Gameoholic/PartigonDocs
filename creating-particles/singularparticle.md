@@ -1,7 +1,7 @@
 # SingularParticle
 
 The `SingularParticle` class is used to represent and control single particle animations.\
-While you can instantiate it with the primary constructor, Partigon offers a DLS Builder Pattern, which you can use more conveniently.
+While you can instantiate it with the primary constructor, Partigon offers a DSL Builder Pattern, which you can use more conveniently.
 
 The builder accepts the following parameters, all of which have a default value:
 
