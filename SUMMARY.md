@@ -14,9 +14,9 @@
 * [Envelopes](envelopes/envelopes/README.md)
   * [ConstantEnvelope](envelopes/envelopes/constantenvelope.md)
   * [LinearEnvelope](envelopes/envelopes/linearenvelope.md)
-  * [CurveEnvelope (TODO)](envelopes/envelopes/curveenvelope-todo.md)
+  * [TrigonometricEnvelope](envelopes/envelopes/trigonometricenvelope.md)
   * [BasicEnvelope](envelopes/envelopes/basicenvelope.md)
-  * [Loops (TODO)](envelopes/envelopes/loops-todo.md)
+  * [Loops](envelopes/envelopes/loops.md)
 * [Envelope Groups (TODO)](envelopes/envelope-groups-todo.md)
 * [Envelope Wrappers (TODO)](envelopes/envelope-wrappers-todo.md)
 
