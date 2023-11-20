@@ -8,7 +8,7 @@ description: >-
 
 To add Partigon to your project, see [Including Partigon in project](partigon/including-partigon-in-project.md) and [Adding to plugins folder](partigon/adding-to-plugins-folder.md).
 
-To see what is possible with the library, see [Examples](examples/).\
+To see what is possible with the library, see [Examples](tutorial.md).\
 To get started, see [Creating Particles](broken-reference).
 
 

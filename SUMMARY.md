@@ -19,14 +19,11 @@
   * [LinearEnvelope](envelopes/envelopes/linearenvelope.md)
   * [TrigonometricEnvelope](envelopes/envelopes/trigonometricenvelope.md)
   * [BasicEnvelope](envelopes/envelopes/basicenvelope.md)
-* [Loops](envelopes/loops.md)
-* [Envelope Groups](envelopes/envelope-groups.md)
-* [Envelope Wrappers](envelopes/envelope-wrappers.md)
+* [Loops](envelopes/envelopes/loops.md)
+* [Envelope Groups](envelopes/envelope-groups-todo.md)
+* [Envelope Wrappers](envelopes/envelope-wrappers-todo.md)
 * [Rotation Options](envelopes/rotation-options.md)
 
 ***
 
-* [Examples](examples/README.md)
-  * [Examples](examples/examples.md)
-  * [Tutorial 1 (Basic)](examples/tutorial-1-basic.md)
-  * [Tutorial 2 (Advanced)](examples/tutorial-2-advanced.md)
+* [Tutorial](tutorial.md)
