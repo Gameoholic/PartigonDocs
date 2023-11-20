@@ -8,14 +8,13 @@ description: >-
 
 To add Partigon to your project, see [Including Partigon in project](partigon/including-partigon-in-project.md) and [Adding to plugins folder](partigon/adding-to-plugins-folder.md).
 
-To see what is possible with the library, see [Examples](tutorial.md).\
-To get started, see [Creating Particles](broken-reference).
+To see what is possible with the library, see [Showcase](showcase.md).
 
-
+To get started, see [Creating Particles](broken-reference) and [Tutorial](tutorial.md).
 
 _Note: It is recommended to use Kotlin with Partigon, as it was made specifically for usage with Kotlin. Java support might come in the future, if there's demand for it._
 
-All classes and methods have javadoc that provide more details and information.
+All classes and methods have Javadoc that provide more details and information.
 
 
 

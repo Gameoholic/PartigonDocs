@@ -1,6 +1,6 @@
 # MultiParticle
 
-MultiParticle represents a particle animation with multiple instances of `SingularParticle`.
+`MultiParticle` represents a particle animation with multiple instances of `SingularParticle`.
 
 Starting, stopping or resuming it will do it for all the Singular Particles it contains.
 
@@ -12,6 +12,7 @@ To add particles to it, you can either pass a list containing `SingularParticle`
 
 An example of a MultiParticle:
 
+{% code overflow="wrap" %}
 ```kotlin
 multiParticle {
     singularParticle {
@@ -28,3 +29,4 @@ multiParticle {
     }.add()
 }
 ```
+{% endcode %}

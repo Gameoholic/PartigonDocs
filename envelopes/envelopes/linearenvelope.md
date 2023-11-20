@@ -2,10 +2,11 @@
 
 An Envelope used for interpolation between 2 values linearly.
 
-LineEnvelope requires 2 Envelope values.
+`LineEnvelope` requires 2 Envelope values.\
+The value will be interpolated over the length of the loop provided. See[ Loops](loops.md).
 
-The value will be interpolated over the length of the loop provided. See Loops.\
-For example, the following will animate the X position of the particle relative to its originLocation, from 0 to 5, over 21 ticks. It will then repeat forever:
+\
+For example, the following will animate the X position of the particle relative to its `originLocation`, from 0 to 5, over 21 ticks. It will then repeat forever:
 
 ```
 positionX = LinearEnvelope(0.envelope, 5.envelope, RepeatLoop(21))
@@ -24,6 +25,6 @@ positionX = LinearEnvelope(
  )
 ```
 
-All envelopes have secondary constructor with the NONE property type as the default, which is used for the nested envelope above.
+All envelopes have secondary constructor with the `NONE` property type as the default, which is used for the nested envelope above.
 
 You can get real creative with this! You can pass Envelopes as both parameters, and even create Envelopes nested inside of Envelopes nested inside of Envelopes nested inside of _(you get the point)_

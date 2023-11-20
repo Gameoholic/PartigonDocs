@@ -1,6 +1,6 @@
 # Envelope Groups
 
-Envelope groups are groups of 3 envelopes that affect either POSITION or OFFSET property types (aka, only properties that have an X, Y and Z value).
+Envelope groups are groups of 3 envelopes that affect either `POSITION` or `OFFSET` property types (aka, only properties that have an X, Y and Z value).
 
 Each envelope can only be assigned one envelope group.
 
@@ -35,6 +35,7 @@ Upon initialization of the envelope group, the `envelopeGroup` property of each 
 
 Envelope groups are useful because you can apply a rotation to it (more on that later):
 
+{% code overflow="wrap" %}
 ```kotlin
 EnvelopeGroup(
     LinearEnvelope(
@@ -64,6 +65,7 @@ EnvelopeGroup(
     )
 )
 ```
+{% endcode %}
 
 And because you can use envelope wrappers with them, which makes it much easier to animate lines, circles and other shapes. Envelope group wrappers are super handy, because there's a lot of boilerplate in the examples provided above.
 

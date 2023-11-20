@@ -4,6 +4,8 @@ An envelope for interpolation of 2 values via trigonometric functions, used for 
 
 An example of a Trigonometric Envelope:
 
-`extra = TrigonometricEnvelope(1.envelope, 10.envelope, TrigFunc.SIN, RepeatLoop(40))`
+```kotlin
+extra = TrigonometricEnvelope(1.envelope, 10.envelope, TrigFunc.SIN, RepeatLoop(40))
+```
 
-It is usually preferred, however, to use Envelope Wrappers methods.
+It is usually preferred, however, to use [Envelope Wrappers](../envelope-wrappers-todo.md) methods.

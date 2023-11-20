@@ -1,11 +1,10 @@
 # Loops
 
 Loops are what's used for controlling envelopes, and how long they last.\
-The following are Loops included within Partigon, however, you can also make your own implementations.
-
-All loops require the duration as an Integer parameter.
-
+All loops require the duration as an Integer parameter.\
 _As always, the method and class descriptions provide more information._
+
+The following are Loops included within Partigon, however, you can also make your own implementations.
 
 ## RepeatLoop
 
@@ -17,7 +16,7 @@ When loop reaches end, reverses the animation, playing it in the same way but in
 
 ## BounceLoop
 
-When loop reaches end, will reverse in the same way as ReverseLoop, but will not repeat the first and last frame, resulting in a clean "bounce" animation.
+When loop reaches end, will reverse in the same way as `ReverseLoop`, but will not repeat the first and last frame, resulting in a clean "bounce" animation.
 
 ## ContinueLoop
 
