@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Partigon](README.md)
+  * [Including Partigon in project](partigon/including-partigon-in-project.md)
+  * [Adding to plugins folder](partigon/adding-to-plugins-folder.md)
+* [Showcase](showcase.md)
 
 ## Creating Particles
 
@@ -16,9 +19,10 @@
   * [LinearEnvelope](envelopes/envelopes/linearenvelope.md)
   * [TrigonometricEnvelope](envelopes/envelopes/trigonometricenvelope.md)
   * [BasicEnvelope](envelopes/envelopes/basicenvelope.md)
-  * [Loops](envelopes/envelopes/loops.md)
-* [Envelope Groups (TODO)](envelopes/envelope-groups-todo.md)
-* [Envelope Wrappers (TODO)](envelopes/envelope-wrappers-todo.md)
+* [Loops](envelopes/loops.md)
+* [Envelope Groups](envelopes/envelope-groups.md)
+* [Envelope Wrappers](envelopes/envelope-wrappers.md)
+* [Rotation Options](envelopes/rotation-options.md)
 
 ***
 

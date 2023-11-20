@@ -31,7 +31,7 @@ Note that classes in this library are **mutable**, meaning you cannot pass an En
 
 An example of a SingularParticle:
 
-```
+```kotlin
 singularParticle {
     particleType = Particle.FLAME
 
