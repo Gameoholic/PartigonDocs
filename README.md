@@ -20,9 +20,9 @@ All classes and methods have Javadoc that provide more details and information.
 
 ### Plugin Pages
 
-Github: [https://github.com/Gameoholic/Partigon](https://github.com/Gameoholic/Partigon)
+[Github](https://github.com/Gameoholic/Partigon)
 
-Hangar: -
+[Plugin page (Hangar)](https://hangar.papermc.io/Gameoholic/Partigon)
 
 ### Join the community
 
