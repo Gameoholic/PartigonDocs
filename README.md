@@ -10,13 +10,17 @@ To add Partigon to your project, see [Including Partigon in project](partigon/in
 
 To see what is possible with the library, see [Showcase](showcase.md).
 
-To get started, see [Creating Particles](broken-reference) and [Tutorial](tutorial.md).
+To get started, see [Creating Particles](broken-reference). An example plugin is provided in [Tutorial](tutorial.md).
 
 _Note: It is recommended to use Kotlin with Partigon, as it was made specifically for usage with Kotlin. Java support might come in the future, if there's demand for it._
 
 All classes and methods have Javadoc that provide more details and information.
 
 
+
+### Plugin Pages
+
+Github: [https://github.com/Gameoholic/Partigon](https://github.com/Gameoholic/Partigon)
 
 ### Join the community
 
